@@ -1,1 +1,2 @@
-# BSC-COM-NE-02-20_Lab_1
+# BSC-COM-NE-02-20
+## Lastone Chibwe
